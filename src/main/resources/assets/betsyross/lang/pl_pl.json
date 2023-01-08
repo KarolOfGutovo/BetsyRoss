@@ -1,0 +1,40 @@
+{
+  "itemGroup.betsyross": "Betsy Ross",
+
+  "item.betsyross.flag_standard": "Sztandar flagowy",
+  "item.betsyross.banner_standard": "Sztandar banerowy",
+  "item.betsyross.armor_banner": "Baner do zbroi",
+
+  "block.betsyross.flag_block": "Flaga",
+  "block.betsyross.flag_block.tooltip.width": "Szerokość: %s blok(ów)",
+  "block.betsyross.flag_block.tooltip.height": "Wysokość: %s blok(ów)",
+  "block.betsyross.embroidery_table": "Stół do haftu",
+
+  "gui.betsyross.embroidery_table.url": "Adres obrazu",
+  "gui.betsyross.embroidery_table.url.tip": "Wskazówka: Używaj obrazów ze stron hostujących obrazy jak reddit lub imgur by skrócić adresy",
+  "gui.betsyross.embroidery_table.reload_flags": "Odśwież flagi",
+  "gui.betsyross.embroidery_table.reload_flags.cooldown": "Odświeżenie flag dostępne za %s sekund",
+  "gui.betsyross.embroidery_table.flag_width": "Szerokość flagi",
+  "gui.betsyross.embroidery_table.flag_height": "Wysokość flagi",
+  "gui.betsyross.embroidery_table.sticks_required": "Wymagane patyki: %s",
+  "gui.betsyross.embroidery_table.max_width": "Maksymalna szerokość: %s blok(ów)",
+  "gui.betsyross.embroidery_table.max_height": "Maksymalna wysokość: %s blok(ów)",
+  "gui.betsyross.embroidery_table.consumed_wool": "Zużywa: %s wełny",
+
+  "config.betsyross.animationDetail": "Detale animacji flagi",
+  "config.betsyross.flagBlockRequiredSticks": "Patyki wymagane do wytworzenia Flagi",
+  "config.betsyross.flagBlockMaxWidth": "Maksymalna szerokość Flagi",
+  "config.betsyross.flagBlockMaxHeight": "Maksymalna wysokość Flagi",
+  "config.betsyross.armorBannerRequiredSticks": "Patyki wymagane do wytworzenia Baneru do zbroi",
+  "config.betsyross.armorBannerMaxWidth": "Maksymalna szerokość Baneru do zbroi",
+  "config.betsyross.armorBannerMaxHeight": "Maksymalna wysokość Baneru do zbroi",
+  "config.betsyross.flagStandardRequiredSticks": "Patyki wymagane do wytworzenia Sztandaru flagowego",
+  "config.betsyross.flagStandardMaxWidth": "Maksymalna szerokość Sztandaru flagowego",
+  "config.betsyross.flagStandardMaxHeight": "Maksymalna wysokość Sztandaru flagowego",
+  "config.betsyross.bannerStandardRequiredSticks": "Patyki wymagane do wytworzenia Sztandaru banerowego",
+  "config.betsyross.bannerStandardMaxWidth": "Maksymalna szerokość Sztandaru banerowego",
+  "config.betsyross.bannerStandardMaxHeight": "Maksymalna wysokość Sztandaru banerowego",
+  "config.betsyross.maxCraftableWidth": "Maksymalna szerokość",
+  "config.betsyross.maxCraftableHeight": "Maksymalna wysokość",
+  "config.betsyross.areaPerWool": "Powierzchnia na blok wełny"
+}
